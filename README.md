@@ -7,7 +7,9 @@ analyze how much image optimization can be achieved.
 
 Go to the Chrome Extensions settings page 
 
-```chrome://extensions```
+```
+chrome://extensions
+```
 
 then click on _Developer mode_ and _Load unpacked extension..._ button.
 
@@ -15,6 +17,8 @@ then click on _Developer mode_ and _Load unpacked extension..._ button.
 
 Go to the Add-ons panel 
 
-```about:debugging```
+```
+about:debugging
+```
 
 and load the extension by clicking on the _Load Temporary Add-on_ button.
